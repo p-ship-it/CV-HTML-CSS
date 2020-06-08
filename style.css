@@ -1,0 +1,19 @@
+h1{
+    color: teal;
+}
+h3{
+    color: turquoise;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: thistle;
+    border-width: 5px;
+    width: 5%;
+}
+img{
+    height: 150px;
+}
+body{
+    background-color: #EAF6F6;
+}
